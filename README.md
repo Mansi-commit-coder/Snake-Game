@@ -1,5 +1,6 @@
-Snake Game
 
+https://github.com/user-attachments/assets/db6a62cf-7014-427f-bf2d-19cf20914615
+Snake Game
 
 Overview
 This is a simple, browser-based Snake game implemented using HTML, CSS, and JavaScript. The objective of the game is to control a snake to eat food, causing the snake to grow in length. The game ends when the snake collides with itself or the edges of the grid.
